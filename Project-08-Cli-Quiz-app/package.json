@@ -1,11 +1,11 @@
 {
   "name": "@azfarmasood21/cli-project-08-quiz-app-08",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "This is a Simple Quiz app made on only TypeScript",
-  "main": "Project-08-Quiz-app.js",
+  "main": "Project-08-quiz-app.js",
   "type": "module",
   "bin": {
-    "cli-project-08-quiz-app-azfar-08": "./Project-08-Quiz-app.js"
+    "cli-project-08-quiz-app-azfar-08": "./Project-08-quiz-app.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

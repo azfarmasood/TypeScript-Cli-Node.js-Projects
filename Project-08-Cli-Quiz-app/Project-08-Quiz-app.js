@@ -1,4 +1,4 @@
-#! usr/bin/env node
+#! /usr/bin/env node
 import inquirer from "inquirer";
 import { HTML_language, CSS_language } from "./Quiz Questions/HTML and CSS.js";
 import { PHP_language, REACT_language } from "./Quiz Questions/PHP and React.js";

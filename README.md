@@ -37,4 +37,4 @@
 * ```npx @azfarmasood21/cli-project-10-oop-10```
 
 **Project Cli-OOP My Bank app (11)**
-* ```npx @azfarmasood21/project-11-cli-oop-mybank-11```
+* ```npx @azfarmasood21/project-11-oop-mybank```

@@ -1,4 +1,4 @@
-#! usr/bin/env node
+#! /usr/bin/env node
 import inquirer from "inquirer";
 import { Count_Down_Timer } from "./Functions/CalculateTheRemaningTime.js";
 import chalk from "chalk";

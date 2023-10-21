@@ -1,6 +1,6 @@
 {
   "name": "@azfarmasood21/cli-project-10-oop-10",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This is a simple Object Oriented Programming app made on using on TypeScript",
   "main": "Project-10-OOP.js",
   "type": "module",

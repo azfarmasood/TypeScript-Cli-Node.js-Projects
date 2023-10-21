@@ -1,3 +1,4 @@
+#! /usr/bin/env node
 import inquirer from "inquirer";
 import chalk from "chalk";
 import Animation from "chalk-animation";
@@ -468,7 +469,6 @@ async function OOP_MYBANK() {
                                 else {
                                     await OOP_MYBANK();
                                 }
-                                return Exit_app;
                             }
                         }
                         await Exit();

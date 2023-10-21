@@ -1,3 +1,4 @@
+#! /usr/bin/env node
 import inquirer from "inquirer";
 import { createSpinner } from "nanospinner";
 import chalk from "chalk";
@@ -8,7 +9,7 @@ let Animation0 = () => {
         setTimeout(Animation1, 5000);
     });
 };
-let Animationtitle1 = Animation.rainbow("Starting Your Adventure Game !");
+let Animationtitle1 = Animation.rainbow("Starting Your Adventure Game!");
 await Animation0();
 Animationtitle1.stop();
 let Text2 = figlet.textSync("Adventure Game !", {

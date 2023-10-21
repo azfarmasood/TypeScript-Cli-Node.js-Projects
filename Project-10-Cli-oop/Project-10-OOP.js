@@ -1,3 +1,4 @@
+#! /usr/bin/env node
 import inquirer from "inquirer";
 import { createSpinner } from "nanospinner";
 import { Student } from "./Files/Student.js";
@@ -20,7 +21,7 @@ let Animationtitle1 = Animation.rainbow("Welcome To Object Oriented Programming:
 await Animation0();
 Animationtitle1.stop();
 let Text2 = figlet.textSync("OOP!", {
-    font: "Slant",
+    font: "Big",
 });
 console.log(chalk.bold(chalk.hex('#9e1b32')(Text2)));
 let Animation1 = () => {
@@ -28,7 +29,7 @@ let Animation1 = () => {
         setTimeout(Animation1, 5000);
     });
 };
-let Animationtitle2 = Animation.rainbow("Start Your OOP Example:");
+let Animationtitle2 = Animation.rainbow("Start Your OOP:");
 await Animation1();
 Animationtitle2.stop();
 async function opp() {

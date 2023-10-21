@@ -19,11 +19,11 @@ Project-CLI-OOP-MYBank is a command-line interface (CLI) banking application dev
 
 ## Installation:
 To use this oop My Bank app CLI, follow these steps:
-1. ```npm install @azfarmasood21/project-11-cli-oop-mybank-11```
+1. ```npm install @azfarmasood21/project-11-oop-mybank```
 
 ## OR:
 
-2. ```npx @azfarmasood21/project-11-cli-oop-mybank-11```
+2. ```npx @azfarmasood21/project-11-oop-mybank```
 
 ## How To Use:
 * Select 'Create an Account' from the menu. You will be prompted to enter your details such as first name, last name, username, age, contact number, email, user ID, and user PIN.2. You will then be asked to enter your name. After you do so, the application will display your name along with your generated personality.

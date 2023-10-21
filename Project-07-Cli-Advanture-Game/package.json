@@ -1,11 +1,11 @@
 {
   "name": "@azfarmasood21/cli-project-07-adventure-game-07",
-  "version": "1.0.0",
+  "version": "1.0.5",
   "description": "This is Simple Adventure Game using only Cli Typescript",
-  "main": "Project-07-ADVENTURE_GAME.js",
+  "main": "Project-07-ADVENTURE-GAME.js",
   "type": "module",
   "bin": {
-    "cli-project-07-adventure-game-07": "./Project-07-ADVENTURE_GAME.js"
+    "cli-project-07-adventure-game-07-azfar-07": "./Project-07-ADVENTURE-GAME.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

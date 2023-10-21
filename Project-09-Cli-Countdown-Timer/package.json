@@ -1,6 +1,6 @@
 {
   "name": "@azfarmasood21/cli-project-09-countdown-timer-09",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This is a simple Countdown timer made on Typescript",
   "main": "Project-09-Countdown-Timer.js",
   "type": "module",
