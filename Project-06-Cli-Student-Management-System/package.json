@@ -1,0 +1,25 @@
+{
+  "name": "@azfarmasood21/cli-project-06-student-management-system-06",
+  "version": "1.0.0",
+  "description": "This is siple Student management System made on using only Typescript",
+  "main": "Project-06-Student-Management-System.js",
+  "bin": {
+    "cli-project-06-student-management-system-06-azfar-06": "./Project-06-Student-Management-System.js"
+  },
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Azfar",
+  "license": "ISC",
+  "dependencies": {
+    "chalk-animation": "^2.0.3",
+    "figlet": "^1.6.0",
+    "inquirer": "^9.2.11"
+  },
+  "devDependencies": {
+    "@types/chalk-animation": "^1.6.1",
+    "@types/figlet": "^1.5.6",
+    "@types/inquirer": "^9.0.3"
+  }
+}

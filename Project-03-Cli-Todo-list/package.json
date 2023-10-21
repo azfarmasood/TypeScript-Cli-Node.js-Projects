@@ -1,0 +1,30 @@
+{
+  "name": "@azfarmasood21/cli-project-03-todo-03",
+  "version": "1.0.5",
+  "description": "This is a simple TODO Project made on Typescript:",
+  "main": "Project-03-TODO.js",
+  "type": "module",
+  "bin": {
+    "cli-project-03-todo-azfar-03": "./Project-03-TODO.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Azfar",
+  "license": "ISC",
+  "dependencies": {
+    "alert": "^5.1.4",
+    "chalk": "^5.3.0",
+    "chalk-animation": "^2.0.3",
+    "figlet": "^1.6.0",
+    "inquirer": "^9.2.10",
+    "node": "^20.6.0"
+  },
+  "devDependencies": {
+    "@types/chalk": "^2.2.0",
+    "@types/chalk-animation": "^1.6.1",
+    "@types/figlet": "^1.5.6",
+    "@types/inquirer": "^9.0.3",
+    "@types/node": "^20.5.9"
+  }
+}

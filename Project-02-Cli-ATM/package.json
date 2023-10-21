@@ -1,0 +1,30 @@
+{
+  "name": "@azfarmasood21/cli-project-02-atm-02",
+  "version": "1.0.0",
+  "description": "This is a simple ATM Project made on Typescript:",
+  "main": "Project-02-ATM.js",
+  "type": "module",
+  "bin": {
+    "cli-project-02-atm-02-azfar-02": "./Project-02-ATM.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Azfar",
+  "license": "ISC",
+  "dependencies": {
+    "alert": "^5.1.4",
+    "chalk": "^5.3.0",
+    "chalk-animation": "^2.0.3",
+    "figlet": "^1.6.0",
+    "inquirer": "^9.2.10",
+    "node": "^20.5.1"
+  },
+  "devDependencies": {
+    "@types/chalk": "^2.2.0",
+    "@types/chalk-animation": "^1.6.1",
+    "@types/figlet": "^1.5.6",
+    "@types/inquirer": "^9.0.3",
+    "@types/node": "^20.5.9"
+  }
+}
